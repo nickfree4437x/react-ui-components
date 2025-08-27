@@ -1,7 +1,5 @@
 1️⃣ Folder Structure
 
-Your project should look like this:
-
 my-react-ui-components/
 ├─ node_modules/
 ├─ public/
@@ -20,6 +18,7 @@ my-react-ui-components/
 ├─ tailwind.config.js
 ├─ vite.config.ts
 └─ README.md
+
 
 2️⃣ Create README.md
 
