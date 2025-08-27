@@ -19,11 +19,6 @@ my-react-ui-components/
 ├─ vite.config.ts
 └─ README.md
 
-
-2️⃣ Create README.md
-
-Here’s a professional README template:
-
 # React UI Components Library
 
 A demo project showcasing two React components built with **TypeScript**, **TailwindCSS**, and **Storybook**:
@@ -66,7 +61,7 @@ A demo project showcasing two React components built with **TypeScript**, **Tail
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/my-react-ui-components.git
+git clone https://github.com/nickfree4437x/react-ui-component
 cd my-react-ui-components
 
 # Install dependencies
